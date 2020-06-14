@@ -7,3 +7,6 @@
 [submodule "words"]
 	path = words
 	url = git@github.com:IoTcat/words-api.git
+[submodule "v2ray"]
+	path = v2ray
+	url = git@github.com:IoTcat/v2ray-api.git
