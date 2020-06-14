@@ -4,3 +4,6 @@
 [submodule "msc"]
 	path = msc
 	url = git@github.com:IoTcat/msc-api.git
+[submodule "words"]
+	path = words
+	url = git@github.com:IoTcat/words-api.git
