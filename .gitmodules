@@ -1,3 +1,6 @@
 [submodule "img"]
 	path = img
 	url = git@github.com:IoTcat/img-api.git
+[submodule "msc"]
+	path = msc
+	url = git@github.com:IoTcat/msc-api.git
