@@ -10,3 +10,18 @@
 [submodule "v2ray"]
 	path = v2ray
 	url = git@github.com:IoTcat/v2ray-api.git
+[submodule "sms"]
+	path = sms
+	url = git@github.com:IoTcat/sms-api.git
+[submodule "gugu"]
+	path = gugu
+	url = git@github.com:IoTcat/gugu-api.git
+[submodule "mail"]
+	path = mail
+	url = git@github.com:IoTcat/mail-api.git
+[submodule "todo-ddl"]
+	path = todo-ddl
+	url = git@github.com:IoTcat/todo-ddl-api.git
+[submodule "coro"]
+	path = coro
+	url = git@github.com:IoTcat/coro-api.git
