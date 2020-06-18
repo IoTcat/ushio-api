@@ -25,3 +25,6 @@
 [submodule "coro"]
 	path = coro
 	url = git@github.com:IoTcat/coro-api.git
+[submodule "upload"]
+	path = upload
+	url = git@github.com:iotcat/upload-api
