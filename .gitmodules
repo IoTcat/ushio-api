@@ -28,3 +28,6 @@
 [submodule "upload"]
 	path = upload
 	url = git@github.com:iotcat/upload-api
+[submodule "danmaku"]
+	path = danmaku
+	url = git@github.com:IoTcat/danmaku-api.git
