@@ -31,3 +31,6 @@
 [submodule "danmaku"]
 	path = danmaku
 	url = git@github.com:IoTcat/danmaku-api.git
+[submodule "video"]
+	path = video
+	url = git@github.com:IoTcat/video-api.git
